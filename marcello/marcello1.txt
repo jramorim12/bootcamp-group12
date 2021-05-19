@@ -1,2 +1,2 @@
-Linha 1 do arquivo marcello1
+Linha 1 do arquivo marcello1, gerando conflito na linha 1
 Linha 2 do arquivo lourinaldo2
